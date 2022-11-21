@@ -1,6 +1,24 @@
 {
   "name": "dadata-vanilla-js",
-  "version": "1.0.0",
-  "dependencies": {
+  "version": "0.1",
+  "description": "Implementation of DaData address on vanilla JS",
+  "main": "index.js",
+  "keywords": [
+    "dadata",
+    "java script",
+    "vanilla js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smiley-Alyx/dadata-vanilla-js.git"
+  },
+  "author": {
+    "name": "Shornikova Alexandra",
+    "email": "smiley-alyx@yandex.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smiley-Alyx/dadata-vanilla-js/issues",
+    "email": "smiley-alyx@yandex.ru"
   }
 }

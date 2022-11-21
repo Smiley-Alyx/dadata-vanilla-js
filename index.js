@@ -1,8 +1,7 @@
 'use strict';
-// eslint-disable-next-line import/prefer-default-export
 export class DaData {
-    constructor() {
-        this.token = '';
+    constructor(token) {
+        this.token = token;
     }
 
     address(query) {
